@@ -1,4 +1,4 @@
-#  Motorola Sales Dashboard (Power BI)
+<img width="1207" height="677" alt="Screenshot 2025-10-29 104930" src="https://github.com/user-attachments/assets/86cbe745-3651-44d0-8ede-216f933fbb9f" />#  Motorola Sales Dashboard (Power BI)
 
 ### 🗓️ Monthly Performance Report
 
@@ -24,7 +24,8 @@ This project showcases a **Power BI dashboard** that visualizes Motorola’s sal
 ---
 
 ## 🖼️ Dashboard Preview
-![Motorola Dashboard](Screenshot%202025-09-30%20145138.png)
+![Uploading Screenshot 2025-10-29 112230.png…]()
+
 
 ---
 
