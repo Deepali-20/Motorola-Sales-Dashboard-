@@ -1,4 +1,3 @@
-<img width="1207" height="677" alt="Screenshot 2025-10-29 104930" src="https://github.com/user-attachments/assets/86cbe745-3651-44d0-8ede-216f933fbb9f" />#  Motorola Sales Dashboard (Power BI)
 
 ### 🗓️ Monthly Performance Report
 
@@ -7,10 +6,10 @@ This project showcases a **Power BI dashboard** that visualizes Motorola’s sal
 ---
 
 ## Project Highlights
-- **Total Sales:** 11 M  
-- **Total Quantity:** 291  
-- **Transactions:** 58  
-- **Average Sales:** 36 K  
+- **Total Sales:** 769 M  
+- **Total Quantity:** 19k 
+- **Transactions:** 4k  
+- **Average Sales:** 40 K  
 
 ---
 
@@ -24,7 +23,8 @@ This project showcases a **Power BI dashboard** that visualizes Motorola’s sal
 ---
 
 ## 🖼️ Dashboard Preview
-![Uploading Screenshot 2025-10-29 112230.png…]()
+<img width="1201" height="676" alt="Screenshot 2025-10-29 112230" src="https://github.com/user-attachments/assets/c7ad9502-5433-4c0e-97b3-654adbc5d1fe" />
+
 
 
 ---
